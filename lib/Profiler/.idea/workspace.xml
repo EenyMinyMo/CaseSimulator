@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nobodyprofiler" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5872777d-3b1d-4cca-acbb-370b9cef7440" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y80Zcxifb7kAt2fqvom68xPaxs" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProfilerManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.somber.profiler.ProfilerManager" />
+      <module name="Profiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.somber.profiler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProfilerManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5872777d-3b1d-4cca-acbb-370b9cef7440" name="Default Changelist" comment="" />
+      <created>1582308970813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582308970813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3080" y="-242" key="#Inspections" timestamp="1582310047120">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state x="3080" y="-242" key="#Inspections/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582310047120" />
+    <state x="3080" y="-242" key="#Project_Structure" timestamp="1582313624631">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state x="3080" y="-242" key="#Project_Structure/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582313624631" />
+    <state x="3293" y="-184" key="#com.intellij.ide.util.MemberChooser" timestamp="1582311688601">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state x="3293" y="-184" key="#com.intellij.ide.util.MemberChooser/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582311688601" />
+    <state width="2226" height="508" key="GridCell.Tab.0.bottom" timestamp="1582313666407">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state width="2226" height="508" key="GridCell.Tab.0.bottom/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582313666407" />
+    <state width="2226" height="508" key="GridCell.Tab.0.center" timestamp="1582313666407">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state width="2226" height="508" key="GridCell.Tab.0.center/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582313666407" />
+    <state width="2226" height="508" key="GridCell.Tab.0.left" timestamp="1582313666407">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state width="2226" height="508" key="GridCell.Tab.0.left/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582313666407" />
+    <state width="2226" height="508" key="GridCell.Tab.0.right" timestamp="1582313666407">
+      <screen x="1982" y="-764" width="3010" height="1728" />
+    </state>
+    <state width="2226" height="508" key="GridCell.Tab.0.right/5760.0.1858.1080/0.0.1858.1080/1982.-764.3010.1728@1982.-764.3010.1728" timestamp="1582313666407" />
+  </component>
+</project>

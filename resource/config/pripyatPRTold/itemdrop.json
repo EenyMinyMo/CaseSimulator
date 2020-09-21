@@ -1,0 +1,91 @@
+{
+  "modif_ekza": {
+    "drop_percent" : 1,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\modif_ekza.png"
+  },
+
+  "gauss": {
+    "drop_percent" : 2,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\gauss.png"
+  },
+
+  "sig_sniper": {
+    "drop_percent" : 3,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\sig_sniper.png"
+  },
+
+  "zivka": {
+    "drop_percent" : 3,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\zivka.png"
+  },
+
+  "rt20": {
+    "drop_percent" : 4,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\rt20.png"
+  },
+
+  "sv98": {
+    "drop_percent" : 5,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\sv98.png"
+  },
+
+  "svu_cobra": {
+    "drop_percent" : 5,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\svu_cobra.png"
+  },
+
+  "groza": {
+    "drop_percent" : 6,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\groza.png"
+  },
+
+  "alba": {
+    "drop_percent" : 6,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\alba.png"
+  },
+
+  "tuman": {
+    "drop_percent" : 6,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\tuman.png"
+  },
+
+  "zatochka_uron": {
+    "drop_percent" : 7,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\zatochka_uron.png"
+  },
+
+  "zatochka_distancia": {
+    "drop_percent" : 7,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\zatochka_distancia.png"
+  },
+
+  "zatochka_tochnost": {
+    "drop_percent" : 7,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\zatochka_tochnost.png"
+  },
+
+  "zatochka_anomalka": {
+    "drop_percent" : 7,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\zatochka_anomalka.png"
+  },
+
+  "zatochka_kamenka": {
+    "drop_percent" : 7,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\zatochka_kamenka.png"
+  },
+
+  "remki_bronya": {
+    "drop_percent" : 8,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\remki_bronya.png"
+  },
+
+  "remki_oruzka": {
+    "drop_percent" : 8,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\remki_oruzka.png"
+  },
+
+  "remki_konteiner": {
+    "drop_percent" : 8,
+    "texture": "resource\\texture\\items\\pripyatPRTold\\remki_konteiner.png"
+  }
+}

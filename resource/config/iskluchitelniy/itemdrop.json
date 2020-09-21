@@ -1,0 +1,147 @@
+{
+  "gauss": {
+    "drop_percent" : 4,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\gauss.png"
+  },
+
+  "tank": {
+    "drop_percent" : 6,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\tank.png"
+  },
+
+
+  "ssr": {
+    "drop_percent" : 8,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\ssr.png"
+  },
+
+  "xm8": {
+    "drop_percent" : 8,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\xm8.png"
+  },
+
+
+  "saw": {
+    "drop_percent" : 11,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\saw.png"
+  },
+
+  "vsk": {
+    "drop_percent" : 11,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\vsk.png"
+  },
+
+  "sniper": {
+    "drop_percent" : 11,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\sniper.png"
+  },
+
+  "rt": {
+    "drop_percent" : 11,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\rt.png"
+  },
+
+
+  "modekz": {
+    "drop_percent" : 20,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\modekz.png"
+  },
+
+  "ziv": {
+    "drop_percent" : 20,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\ziv.png"
+  },
+
+  "rigel": {
+    "drop_percent" : 20,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\rigel.png"
+  },
+
+  "ametist": {
+    "drop_percent" : 20,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\ametist.png"
+  },
+
+
+  "skar": {
+    "drop_percent" : 36,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\skar.png"
+  },
+
+  "alba": {
+    "drop_percent" : 36,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\alba.png"
+  },
+
+  "augnato": {
+    "drop_percent" : 36,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\augnato.png"
+  },
+
+  "9a91": {
+    "drop_percent" : 36,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\91.png"
+  },
+
+  "tonga": {
+    "drop_percent" : 36,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\tonga.png"
+  },
+
+
+  "berloga6": {
+    "drop_percent" : 50,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\berloga.png"
+  },
+
+  "tuman": {
+    "drop_percent" : 50,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\tuman.png"
+  },
+
+  "fal": {
+    "drop_percent" : 50,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\fal.png"
+  },
+
+  "sv": {
+    "drop_percent" : 50,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\sv.png"
+  },
+
+  "psg": {
+    "drop_percent" : 50,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\psg.png"
+  },
+
+  "storm": {
+    "drop_percent" : 60,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\storm.png"
+  },
+
+  "ak105": {
+    "drop_percent" : 60,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\ak.png"
+  },
+
+  "aug9mm": {
+    "drop_percent" : 60,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\aug9mm.png"
+  },
+
+  "chirk": {
+    "drop_percent" : 60,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\chirk.png"
+  },
+
+  "aa12": {
+    "drop_percent" : 90,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\aa.png"
+  },
+
+  "magnit": {
+    "drop_percent" : 90,
+    "texture": "resource\\texture\\items\\iskluchitelniy\\magnit.png"
+  }
+
+}

@@ -1,0 +1,21 @@
+Test random for 1000 items.
+Start test.
+remki_konteiner - current/real percent drop: (9.2, 8.0)
+zivka - current/real percent drop: (2.7, 3.0)
+zatochka_uron - current/real percent drop: (6.4, 7.0)
+zatochka_tochnost - current/real percent drop: (7.3, 7.0)
+sv98 - current/real percent drop: (4.7, 5.0)
+sig_sniper - current/real percent drop: (3.4, 3.0)
+svu_cobra - current/real percent drop: (3.9, 5.0)
+modif_ekza - current/real percent drop: (0.6, 1.0)
+alba - current/real percent drop: (5.7, 6.0)
+zatochka_anomalka - current/real percent drop: (6.4, 7.0)
+groza - current/real percent drop: (7.1, 6.0)
+zatochka_distancia - current/real percent drop: (7.0, 7.0)
+remki_oruzka - current/real percent drop: (8.4, 8.0)
+gauss - current/real percent drop: (1.9, 2.0)
+rt20 - current/real percent drop: (3.5, 4.0)
+tuman - current/real percent drop: (7.3, 6.0)
+zatochka_kamenka - current/real percent drop: (6.8, 7.0)
+remki_bronya - current/real percent drop: (7.7, 8.0)
+End test.
