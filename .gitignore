@@ -1,5 +1,9 @@
 # Default ignored files
 /CaseSimulator.iws
+/CaseSimulator.iml
+/CaseSimulator.ipr
+/RandomTest.txt
 
 # Project exclude paths
 /out/
+/.idea/
